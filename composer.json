@@ -25,10 +25,7 @@
         }
     },
     "extra": {
-        "branch-alias": {
-            "dev-master": "3.0-dev"
-        },
-        "laravel": {
+       "laravel": {
             "providers": [
                 "Jenssegers\\Agent\\AgentServiceProvider"
             ],
